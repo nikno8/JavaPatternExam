@@ -4,54 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd15d079-b17b-4be3-8699-f3f066d5cec4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaPatternExam.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFabric/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFabric/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFabric/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFabric/ColorFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFabric/FactoryProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFabric/Green.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFabric/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFabric/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFabric/Red.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFabric/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AbstractFabric/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/IceRoad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/IceRoadAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/Road.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/SimpleRoad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Builder/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Builder/ConcreteBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Builder/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Builder/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Builder/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Decorator/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Decorator/SimpleCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Decorator/SportCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Decorator/Truck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fabric/ConcreteProduct1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fabric/ConcreteProduct2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fabric/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fabric/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fabric/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Singleton/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Singleton/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strategy/ConcreteStrategy1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strategy/ConcreteStrategy2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strategy/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strategy/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strategy/Strategy.java" afterDir="false" />
-    </list>
+    <list default="true" id="dd15d079-b17b-4be3-8699-f3f066d5cec4" name="Changes" comment="все кроме фасада" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -176,11 +129,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686925127976</updated>
-      <workItem from="1686925128389" duration="10635000" />
+      <workItem from="1686925128389" duration="10949000" />
     </task>
+    <task id="LOCAL-00001" summary="все кроме фасада">
+      <created>1686939240562</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686939240562</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="все кроме фасада" />
+    <option name="LAST_COMMIT_MESSAGE" value="все кроме фасада" />
   </component>
 </project>
